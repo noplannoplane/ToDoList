@@ -1,0 +1,21 @@
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\To Do List App.exe.config
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\To Do List App.exe
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\To Do List App.pdb
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\obj\Debug\To Do List App.csproj.GenerateResource.cache
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\obj\Debug\To Do List App.exe
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\obj\Debug\To Do List App.pdb
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\x86\sqlite3.dll
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\x64\sqlite3.dll
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\EntityFramework.dll
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\System.Data.SQLite.dll
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\EntityFramework.xml
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\bin\Debug\System.Data.SQLite.xml
+C:\Users\Василина\Desktop\работа\Декларант-Плюс\To Do List App\obj\Debug\To Do List App.csproj.CopyComplete
